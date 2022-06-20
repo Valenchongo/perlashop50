@@ -6,6 +6,7 @@ body{
     margin: 0;
     font-family:'Roboto', sans-serif;
     background-color: black;
+    width: 100%
 }
 h1{
     font-size: 3.5em;

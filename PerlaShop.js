@@ -5,5 +5,6 @@ boton.addEventListener("click",() => {
     nav.classList.toggle("mobilenav");
    
 });
+//
 
  

@@ -165,13 +165,15 @@ header a:hover{
     justify-content: center;
     text-align: center;
     flex-direction: column;
+    width: 50%;
+    margin: auto;
 }
 
 .logosmarcas{
     display: flex;
     flex-direction: row;
     justify-content: center;
-    width:100%
+    
     
     
 }
@@ -212,16 +214,17 @@ header a:hover{
 
 .nike{
     background-color: rgb(13, 13, 13);
-    margin-top: 10%;
-    width: 45%;
+    margin-top: 20px;
+    width: 200px;
     height: 10%;
-    margin-left: 28%;
-    margin-bottom: 10%;
+    margin-bottom: 20px;
+    align-self: center;
    
        
 }
 .marcash2{
     align-items: center;
+   
       
    
 }
@@ -305,6 +308,9 @@ header a:hover{
         
         
     }
+    .nike{
+        width: 500px;
+    }
     
     .divimagennike{
         min-height: 400px;    
@@ -340,5 +346,36 @@ header a:hover{
         
     
     }
+    .divimagennike{
+        display: flex;
+        justify-content: center; 
+        height: 100px; 
+        justify-content: center;
+        margin-left: 0;
+        padding-left: 13%;
+        
+        
+        
+        
+    }
+    .divimagenadidas{
+        display: flex;
+        justify-content: center;   
+        width:100px;
+        height: 100px; 
+        justify-content: center;
+       
+        
+    
+    }
+    .divimagencrocs{
+        display: flex;
+        justify-content: center;
+        height: 100px; 
+        justify-content: center;
+        padding-right: 10%;
+        padding-bottom: 10px;
+        
 
+}
 }

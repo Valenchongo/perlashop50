@@ -165,7 +165,6 @@ header a:hover{
     justify-content: center;
     text-align: center;
     flex-direction: column;
-    width: 50%;
     margin: auto;
 }
 
@@ -200,17 +199,7 @@ header a:hover{
     
 
 }
-.divimagencrocs{
-    display: flex;
-    justify-content: center;
-    height: 100px; 
-    justify-content: center;
-    padding-right: 10%;
-    padding-bottom: 10px;
-    
-    
 
-}
 
 .nike{
     background-color: rgb(13, 13, 13);
@@ -227,6 +216,10 @@ header a:hover{
    
       
    
+}
+.imagenmarca{
+    width: 100px;
+    height: 100px;
 }
 
 
@@ -312,70 +305,13 @@ header a:hover{
         width: 500px;
     }
     
-    .divimagennike{
-        min-height: 400px;    
-        background-size: cover;
-        padding-right: 11%;
-        
-        
-        
-        
+    .imagenmarca{
+        width: 400px;
+        height: 400px;
+        margin: auto;
     }
-    .divimagenadidas{
-        min-height: 400px;
-        background-size: cover;
-        padding-right: 11%;
-        background-repeat: no-repeat;       
-        padding-left: 50%;
-     
-        
-        
-        
+   
     
-    }
-    .divimagencrocs{
-        min-height: 400px;
-        background-size: cover;
-        padding-right: 11%;
-        background-repeat: no-repeat;       
-        padding-left: 15%;
-        margin-top: 60px;
-     
-       
-        
-        
-    
-    }
-    .divimagennike{
-        display: flex;
-        justify-content: center; 
-        height: 100px; 
-        justify-content: center;
-        margin-left: 0;
-        padding-left: 13%;
-        
-        
-        
-        
-    }
-    .divimagenadidas{
-        display: flex;
-        justify-content: center;   
-        width:100px;
-        height: 100px; 
-        justify-content: center;
-       
-        
-    
-    }
-    .divimagencrocs{
-        display: flex;
-        justify-content: center;
-        height: 100px; 
-        justify-content: center;
-        padding-right: 10%;
-        padding-bottom: 10px;
         
 
-}
 }
